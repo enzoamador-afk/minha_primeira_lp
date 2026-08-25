@@ -5,11 +5,28 @@
 }
 body {
     display: flex;
+    
+
+    /* display: flex;
     justify-content: center;
     flex-direction: column;
-    gap: 1rem;
+    gap: 1rem; */
 }
-#toxina {
+#areaDeNavegacao{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+#logo{
+    margin: 2rem;
+    background-color: red;
+}
+.Buttons{
+    
+}
+/* #toxina {
     margin-top: 1rem;
     width: 50vw;
     height: 30vw;
@@ -25,4 +42,4 @@ body {
 }
 .divisinha p{
     background-color: blueviolet;
-}
+} */
